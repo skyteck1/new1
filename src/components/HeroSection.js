@@ -25,7 +25,7 @@ const HeroSection = ({ myData }) => {
           <div className="hero-section-image">
             <figure>
               <img
-                src="../images/hero.png"
+                src="./images/hero.png"
                 alt="hero-section-photo"
                 className="img-style"
               />
